@@ -99,6 +99,10 @@ nav ul li a:hover{
         min-height: 100vh;
         padding: 20px 0;
     }
+    .container{
+        height: auto;
+        overflow: visible;
+    }
     .content {
         flex-direction: column;
         justify-content: center;
